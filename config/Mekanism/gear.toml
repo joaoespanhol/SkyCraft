@@ -63,7 +63,7 @@
 		#Range: 1 ~ 9223372036854775807
 		fillRate = 16
 		#Determines whether or not the Flamethrower can destroy items if it fails to smelt them.
-		destroyItems = true
+		destroyItems = false
 
 	#Free Runner Settings
 	[gear.free_runner]
@@ -184,7 +184,7 @@
 		#Cost in Joules of using the Meka-Tool to shear entities.
 		energyUsageShearEntity = "10"
 		#Enable the 'Extended Vein Mining' mode for the Meka-Tool. (Allows vein mining everything not just ores/logs)
-		extendedMining = true
+		extendedMining = false
 
 	#MekaSuit Settings
 	[gear.mekasuit]

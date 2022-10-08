@@ -24,7 +24,7 @@
 			title: "Allthemodium Ore"
 			x: -3.5d
 			y: 1.5d
-			description: ["Found in Mountainous biomes inside cave ceilings and walls, with additional deposits in peaks above Y170."]
+			description: ["Encontrado em biomas montanhosos dentro de tetos e paredes de cavernas, com depósitos adicionais em picos acima de Y170."]
 			hide_dependency_lines: false
 			dependencies: ["731686C758AD9A99"]
 			hide: false
@@ -45,7 +45,7 @@
 		{
 			x: 0.0d
 			y: 1.5d
-			description: ["Find this ore in the Nether's Warped Forests and Crimson Forests between Y100 to Y123, or the Other between Y0 to Y20."]
+			description: ["Encontre este minério nas Florestas Deformadas do Nether e Florestas Carmesins entre Y100 e Y123, ou o Outro entre Y0 e Y20."]
 			hide_dependency_lines: false
 			dependencies: ["731686C758AD9A99"]
 			dependency_requirement: "one_started"
@@ -65,7 +65,7 @@
 		{
 			x: 3.5d
 			y: 1.5d
-			description: ["Find this obtainable ore in the End Highlands biome."]
+			description: ["Encontre este minério disponível no bioma End Highlands."]
 			hide_dependency_lines: false
 			dependencies: ["731686C758AD9A99"]
 			id: "4F6E6AF1D9E74CB7"
@@ -83,7 +83,7 @@
 		{
 			x: -3.5d
 			y: 3.5d
-			description: ["Now that is a fast furnace!"]
+			description: ["Agora que é um forno rápido!"]
 			dependencies: ["71A43C89EB13E9A0"]
 			id: "2CC97CF32D9C017B"
 			tasks: [{
@@ -95,7 +95,7 @@
 		{
 			x: -2.5d
 			y: 2.0d
-			description: ["It is recommended to craft this potion with your first ingot."]
+			description: ["Recomenda-se criar esta poção com seu primeiro lingote."]
 			dependencies: ["71A43C89EB13E9A0"]
 			id: "04AB01C841CD3E3F"
 			tasks: [{
@@ -134,7 +134,7 @@
 		{
 			x: -3.5d
 			y: 2.5d
-			description: ["Don't underestimate my power!"]
+			description: ["Não subestime meu poder!"]
 			hide_dependency_lines: false
 			dependencies: ["5BDBE666E604FCAC"]
 			dependency_requirement: "one_completed"
@@ -231,7 +231,7 @@
 		{
 			x: 0.0d
 			y: 2.5d
-			description: ["With great power comes.. well something."]
+			description: ["Com grande poder vem... bem alguma coisa."]
 			hide_dependency_lines: false
 			dependencies: ["2DF64CB9298E91EA"]
 			id: "61FDABF2C7CC1F9D"
@@ -249,7 +249,7 @@
 		{
 			x: 0.0d
 			y: 3.5d
-			description: ["How fast can this possibly get!?"]
+			description: ["Quão rápido isso pode chegar!?"]
 			dependencies: ["61FDABF2C7CC1F9D"]
 			id: "5CA0BA27F9C537B2"
 			tasks: [{
@@ -261,7 +261,7 @@
 		{
 			x: 3.5d
 			y: 3.5d
-			description: ["Now you are just showing off."]
+			description: ["Agora você está apenas se exibindo."]
 			dependencies: ["44760B819EB3CA68"]
 			id: "1AFDB3AE73E72A33"
 			tasks: [{
@@ -278,7 +278,7 @@
 		{
 			x: -2.5d
 			y: 3.0d
-			description: ["Almost cheating at this point."]
+			description: ["Quase trapaceando neste momento."]
 			dependencies: ["04AB01C841CD3E3F"]
 			id: "6CDAE6626ACA1897"
 			tasks: [{
@@ -313,7 +313,7 @@
 		{
 			x: 1.0d
 			y: 3.0d
-			description: ["My god this stuff is a lot more common then I thought."]
+			description: ["Meu deus, essas coisas são muito mais comuns do que eu pensava."]
 			dependencies: ["7496DB58411060AE"]
 			id: "479B9579742354E1"
 			tasks: [{
@@ -417,7 +417,7 @@
 		{
 			x: -1.0d
 			y: 8.5d
-			description: ["Looks like candy."]
+			description: ["Parece um doce."]
 			dependencies: [
 				"61761B6C1D1542FD"
 				"6A101A8056AC9A3A"
@@ -444,7 +444,7 @@
 		{
 			x: 1.0d
 			y: 8.5d
-			description: ["We are in the endgame now."]
+			description: ["Estamos no final do jogo agora."]
 			dependencies: ["61761B6C1D1542FD"]
 			id: "6459F9A1F845A049"
 			tasks: [{
@@ -468,7 +468,7 @@
 		{
 			x: 0.0d
 			y: 8.5d
-			description: ["Doesn't taste good though."]
+			description: ["Embora não tenha um gosto bom."]
 			dependencies: ["6A101A8056AC9A3A"]
 			id: "1D3C4B41BD512EF7"
 			tasks: [{
@@ -847,9 +847,9 @@
 			x: 0.0d
 			y: 10.5d
 			description: [
-				"A long time ago, dragons lived in these lands."
+				"Há muito tempo, os dragões viviam nestas terras."
 				""
-				"There are no dragons to be found now, but Vibranium is abundant in The Other."
+				"Não há dragões para serem encontrados agora, mas Vibranium é abundante em The Other."
 			]
 			hide_dependency_lines: false
 			dependencies: ["5130BBAD5C542EDB"]

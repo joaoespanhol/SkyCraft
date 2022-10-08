@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 3
 	filename: "tips_and_tricks"
-	title: "Tips \\& Tricks"
+	title: "Dicas e truques"
 	default_quest_shape: "diamond"
 	default_hide_dependency_lines: false
 	images: [
@@ -48,8 +48,8 @@
 		{
 			x: -3.5d
 			y: 2.0d
-			subtitle: "Can be used as Reactor Coolant"
-			description: ["Easy item to automate infinite water. Need more water? Make another!"]
+			subtitle: "Pode ser usado como refrigerante do reator"
+			description: ["Item fácil de automatizar a água infinita. Precisa de mais água? Faça outro!"]
 			id: "722978AC0C1B2649"
 			tasks: [{
 				id: "6855AE257D62AA37"
@@ -73,8 +73,8 @@
 			x: -0.5d
 			y: 0.5d
 			shape: "diamond"
-			subtitle: "Honey I Shrunk Myself"
-			description: ["Use this item to shrink. Helpful for working on automation and also just overall fun."]
+			subtitle: "Querida, eu me encolhi"
+			description: ["Use este item para encolher. Útil para trabalhar em automação e também diversão geral."]
 			id: "7EC8814940C4C3D7"
 			tasks: [{
 				id: "30C938C85BED7956"
@@ -99,11 +99,11 @@
 			]
 		}
 		{
-			title: "OreSight Potions"
+			title: "Poções OreSight"
 			x: -1.0d
 			y: 1.0d
-			subtitle: "It's like X-Ray Vision!"
-			description: ["This potion will allow you to see the respective ore through the walls."]
+			subtitle: "É como a visão de raio-x!"
+			description: ["Esta opção permitirá que você veja o respectivo minério através das paredes."]
 			id: "3EE9F242794CD95F"
 			tasks: [{
 				id: "15F5B24545C0D42F"
@@ -148,11 +148,11 @@
 		{
 			x: -6.0d
 			y: 0.0d
-			subtitle: "When an infinite world is too small"
+			subtitle: "Quando um mundo infinito é muito pequeno"
 			description: [
-				"It's an entire room in one block!"
+				"É uma sala inteira em um bloco!"
 				""
-				"Higher tiers are even bigger on the inside."
+				"Os níveis mais altos são ainda maiores por dentro."
 			]
 			dependencies: ["73F91BF3D424B269"]
 			id: "594540768120A627"
@@ -176,10 +176,10 @@
 			]
 		}
 		{
-			title: "Compact Machines"
+			title: "Máquinas compactas"
 			x: -6.0d
 			y: 1.0d
-			description: ["This item is serves as the guide for Compact Machines, as well as the tool needed to teleport into your tiny machine worlds."]
+			description: ["Este item serve como guia para máquinas compactas, bem como a ferramenta necessária para se teletransportar para seus pequenos mundos de máquinas."]
 			id: "73F91BF3D424B269"
 			tasks: [{
 				id: "3B227EED4B839733"
@@ -193,14 +193,14 @@
 			}]
 		}
 		{
-			title: "Building Gadgets"
+			title: "Gadgets de construção"
 			x: -5.5d
 			y: 0.5d
 			shape: "diamond"
 			description: [
-				"Some useful gadgets for building."
+				"Alguns gadgets úteis para construir."
 				""
-				"&cDestruction Gadget voids blocks!"
+				"&cDispositivo de Destruição anula blocos!"
 			]
 			id: "0F75D7B9F4FF2459"
 			tasks: [
@@ -275,13 +275,13 @@
 			}]
 		}
 		{
-			title: "Building Wands"
+			title: "Varinhas de construção"
 			x: -6.5d
 			y: 0.5d
 			description: [
-				"Can be helpful for building."
+				"Pode ser útil para a construção."
 				""
-				"The consruction wand has cores that can be added to it in crafting. Sneak left-click the air to switch between cores."
+				"A varinha de construção tem núcleos que podem ser adicionados a ela na elaboração.  clique com o botão esquerdo no ar para alternar entre os núcleos."
 			]
 			id: "2A2E3D020B1F5126"
 			tasks: [{
@@ -303,11 +303,11 @@
 			}]
 		}
 		{
-			title: "Tipped Out"
+			title: "Deu gorjeta"
 			x: -3.5d
 			y: 0.5d
 			shape: "gear"
-			subtitle: "Complete all of the tips!"
+			subtitle: "Complete todas as dicas!"
 			hide_dependency_lines: true
 			dependencies: [
 				"722978AC0C1B2649"
@@ -330,13 +330,13 @@
 			}]
 		}
 		{
-			title: "X-Ray Charms"
+			title: "Feitiços de Raio-X"
 			x: -1.0d
 			y: 0.0d
 			description: [
-				"OreSight Potions can be used to craft Charms!"
+				"OreSight Poções podem ser usadas para criar Feitiços!"
 				""
-				"Charms are Curios that last longer, and can be toggled on and off."
+				"Charms são Curious que duram mais e podem ser ativados e desativados."
 			]
 			dependencies: ["3EE9F242794CD95F"]
 			id: "6396AA6918B47DDC"
@@ -386,8 +386,8 @@
 			x: -3.5d
 			y: -2.0d
 			shape: "hexagon"
-			subtitle: "And Other Useful Items!"
-			description: ["On this page, you'll find some useful items and info to help you on your journey!"]
+			subtitle: "E outros itens úteis!"
+			description: ["Nesta página, você encontrará alguns itens e informações úteis para ajudá-lo em sua jornada!"]
 			size: 2.0d
 			id: "0C856BBB1679A7DD"
 			tasks: [{
@@ -404,7 +404,7 @@
 		{
 			x: -1.5d
 			y: 0.5d
-			subtitle: "A Simple Magnet!"
+			subtitle: "Um ímã simples!"
 			id: "3FC002E5A6C08DCC"
 			tasks: [{
 				id: "4112D6272EC400DE"
@@ -425,9 +425,9 @@
 			x: -3.5d
 			y: 3.0d
 			description: [
-				"The rending gale if you are unfamiliar is a method of creative flight! it requires small amounts of emc to run"
+				"O vendaval, se você não estiver familiarizado, é um método de vôo criativo! requer pequenas quantidades de emc para ser executado"
 				""
-				"For EMC before a transmutation table, we recommend redstone/glowstone, or a klein star which is the battery of this mod, you can fill these in a projectE relay!"
+				"Para EMC antes de uma mesa de transmutação, recomendamos redstone/glowstone, ou uma estrela klein que é a bateria deste mod, você pode preenchê-los em um relé projectE!"
 			]
 			id: "25E585C8AE7430DC"
 			tasks: [

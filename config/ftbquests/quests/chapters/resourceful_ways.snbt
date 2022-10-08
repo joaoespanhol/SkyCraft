@@ -3,7 +3,7 @@
 	group: "6614EE2378B8AFB9"
 	order_index: 1
 	filename: "resourceful_ways"
-	title: "Mystical Agriculture"
+	title: "Agricultura Mística"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [{
@@ -20,7 +20,7 @@
 	}]
 	quests: [
 		{
-			title: "Mystical Path"
+			title: "Caminho Místico"
 			x: 5.0d
 			y: 1.5d
 			shape: "rsquare"
@@ -51,7 +51,7 @@
 			}]
 		}
 		{
-			title: "Seed for Though"
+			title: "Seed for embora"
 			x: 8.0d
 			y: -1.5d
 			shape: "diamond"
@@ -76,7 +76,7 @@
 			}]
 		}
 		{
-			title: "The Inferior Essence"
+			title: "A Essência Inferior"
 			x: 5.5d
 			y: 0.0d
 			shape: "circle"
@@ -173,16 +173,16 @@
 			}]
 		}
 		{
-			title: "Circle of Souls"
+			title: "Círculo das Almas"
 			x: 6.0d
 			y: 1.5d
 			shape: "rsquare"
 			description: [
-				"Some seeds require you to kill the mobs needed to get the seeds."
+				"Algumas sementes exigem que você mate os mobs necessários para obter as sementes."
 				""
-				"It does require 4 jars of the same creature. The dagger helps a lot when killing the passive mobs."
+				"Requer 4 jarros da mesma criatura. A adaga ajuda muito na hora de matar os mobs passivos."
 				""
-				"There is also the experience jar, it's just for the experience seed."
+				"Há também o frasco de experiência, é apenas para a semente de experiência."
 			]
 			id: "75560045ED084900"
 			tasks: [
@@ -366,7 +366,7 @@
 			}]
 		}
 		{
-			title: "Meow Meow I'm a Cow... NO!"
+			title: "Meow Meow Eu sou uma vaca... NÃO!"
 			x: 2.5d
 			y: 2.5d
 			shape: "rsquare"
@@ -391,7 +391,7 @@
 			}]
 		}
 		{
-			title: "Beep Beep I'm a Sheep"
+			title: "Bip Bip Eu sou uma ovelha"
 			x: 3.5d
 			y: 2.5d
 			shape: "rsquare"
@@ -887,7 +887,7 @@
 			x: -6.5d
 			y: -1.0d
 			shape: "diamond"
-			description: ["Requires a Crux (Next Quest)"]
+			description: ["Requer um Crux (Próxima Missão))"]
 			dependencies: ["2FA6B8A1C8713DE0"]
 			id: "4A96A0456680837C"
 			tasks: [{
@@ -900,7 +900,7 @@
 			x: -7.5d
 			y: -1.0d
 			shape: "diamond"
-			description: ["Requires a Crux (Next Quest)"]
+			description: ["Requer um Crux (Próxima Missão)"]
 			dependencies: ["2FA6B8A1C8713DE0"]
 			id: "6AB1C7B6251FE9F5"
 			tasks: [{
@@ -949,7 +949,7 @@
 			x: 5.0d
 			y: 2.5d
 			shape: "rsquare"
-			description: ["Use this to make augments for the tiered armors."]
+			description: ["Use isso para fazer aumentos para as armaduras em camadas."]
 			id: "6A4C49AE72E98727"
 			tasks: [
 				{
@@ -968,7 +968,7 @@
 			x: 6.0d
 			y: 2.5d
 			shape: "octagon"
-			description: ["This augment allows creative flight."]
+			description: ["Este aumento permite um voo criativo."]
 			dependencies: ["6A4C49AE72E98727"]
 			id: "50E2B7E8DA12976B"
 			tasks: [{
@@ -980,7 +980,7 @@
 		{
 			x: 8.0d
 			y: 0.0d
-			description: ["Note: Seeds will not drop a duplicate seed when harvested."]
+			description: ["Nota: As sementes não deixarão cair uma semente duplicada quando colhidas."]
 			id: "1CC4F8570A7A99EB"
 			tasks: [{
 				id: "667004CD0469493D"
@@ -991,7 +991,7 @@
 		{
 			x: 8.0d
 			y: 1.5d
-			description: ["Is required for making higher tiered essence."]
+			description: ["É necessário para fazer essência de camadas mais altas."]
 			dependencies: ["1CC4F8570A7A99EB"]
 			id: "05618FE80F2E0372"
 			tasks: [{
@@ -1009,7 +1009,7 @@
 		{
 			x: 8.0d
 			y: 3.0d
-			description: ["Crafting essence with infinite uses!"]
+			description: ["Criando essência com usos infinitos!"]
 			dependencies: ["05618FE80F2E0372"]
 			id: "24F4E46FFFB0C13F"
 			tasks: [{
@@ -1024,7 +1024,7 @@
 			description: [
 				"Stacking these beneath farmland will increase the speed of crops."
 				""
-				"Higher tiers have a larger range, but same effect."
+				"Níveis mais altos têm um alcance maior, mas o mesmo efeito."
 			]
 			dependencies: ["1CC4F8570A7A99EB"]
 			id: "4821419D44F8083F"
@@ -1082,9 +1082,9 @@
 			x: 10.5d
 			y: -1.0d
 			description: [
-				"Using this near or on crops will help the crops grow faster!"
+				"Usar isso nas plantações ajudará as plantações a crescerem mais rápido!"
 				""
-				"Higher tiers have a larger area of effect."
+				"Níveis mais altos têm uma área de efeito maior."
 			]
 			dependencies: ["1CC4F8570A7A99EB"]
 			id: "62D04566426DD979"
@@ -1177,9 +1177,9 @@
 			x: 10.5d
 			y: 1.0d
 			description: [
-				"This can turn any extra seeds you have into their respective essence, at the cost of fuel."
+				"Isso pode transformar quaisquer sementes extras que você tenha em suas respectivas essências, ao custo de combustível."
 				""
-				"Higher tiers are faster."
+				"Níveis mais altos são mais rápidos."
 			]
 			dependencies: ["1CC4F8570A7A99EB"]
 			id: "722B66145690D56B"
@@ -1237,9 +1237,9 @@
 			x: 10.5d
 			y: 2.0d
 			description: [
-				"Better than a golden apple, and a tasty snack!"
+				"Melhor do que uma maçã dourada e um lanche saboroso!"
 				""
-				"Higher tiers give more hunger and saturation, as well as more buffs."
+				"Níveis mais altos dão mais fome e saturação, bem como mais buffs."
 			]
 			dependencies: ["1CC4F8570A7A99EB"]
 			id: "1F88C697817A7680"
@@ -1571,7 +1571,7 @@
 		{
 			x: -9.5d
 			y: 0.0d
-			description: ["Used as Crux for the 3 different Allthemodium seeds"]
+			description: ["Usado como Crux para as 3 sementes Allthemodium diferentes"]
 			dependencies: ["2FA6B8A1C8713DE0"]
 			id: "5DFA18E547CB4D5D"
 			tasks: [{
@@ -1584,7 +1584,7 @@
 			x: -6.5d
 			y: -2.0d
 			shape: "hexagon"
-			description: ["Place this under the soil to allow Nether Star Seeds to grow."]
+			description: ["Coloque isso sob o solo para permitir que Nether Star Seeds cresça."]
 			dependencies: ["4A96A0456680837C"]
 			id: "7BBCE618001884B1"
 			tasks: [{
@@ -1597,7 +1597,7 @@
 			x: -7.5d
 			y: -2.0d
 			shape: "hexagon"
-			description: ["Place this under the soil to allow Dragon Egg Seeds to grow."]
+			description: ["Coloque isso sob o solo para permitir que as sementes de ovo de dragão cresçam."]
 			dependencies: ["6AB1C7B6251FE9F5"]
 			id: "7B7504F386DABBDD"
 			tasks: [{

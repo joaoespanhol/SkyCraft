@@ -3,7 +3,7 @@
 	group: "1AC60211DE7427FC"
 	order_index: 0
 	filename: "storage"
-	title: "Basic Storage"
+	title: "Armazenamento básico"
 	icon: "minecraft:chest"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -49,7 +49,7 @@
 		{
 			x: -3.9499999999999993d
 			y: -1.0d
-			subtitle: "A &olot&r more room for activities."
+			subtitle: "A muito mais espaço para atividades."
 			id: "4C0BDD483CCB40C4"
 			tasks: [{
 				id: "00ED02255105A973"
@@ -63,13 +63,13 @@
 			}]
 		}
 		{
-			title: "My First Drawer"
+			title: "Minha primeira gaveta"
 			icon: "functionalstorage:oak_1"
 			x: -1.75d
 			y: -3.0d
-			subtitle: "Stacks on Stacks"
+			subtitle: "Pilhas sobre pilhas"
 			description: [
-				"Craft yourself a 1x1 drawer. This item holds a ton of stacks of 1 item."
+				"Crie uma gaveta 1x1. Este item contém uma tonelada de pilhas de 1 item."
 				""
 				""
 				""
@@ -80,7 +80,7 @@
 			tasks: [{
 				id: "79EC3CF180A5A940"
 				type: "item"
-				title: "Any #storagedrawers:drawers"
+				title: "Algum #storagedrawers:drawers"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -106,11 +106,11 @@
 			x: 2.75d
 			y: -3.0d
 			shape: "diamond"
-			subtitle: "Auto-Convert to blocks."
+			subtitle: "Converter automaticamente em blocos."
 			description: [
-				"This item can convert items placed inside to their nugget or block forms."
+				"Este item pode converter itens colocados em seus formulários de pepita ou bloco."
 				""
-				"For example: An Iron Ingot placed in this will allow you to pull out 9 nuggets, or if more iron is placed in, will covert it to Iron Blocks."
+				"Por exemplo: Um lingote de ferro colocado nele permitirá que você retire 9 pepitas ou, se mais ferro for colocado, o converterá em blocos de ferro."
 			]
 			dependencies: ["072FBEB0F6F1BC48"]
 			dependency_requirement: "one_started"
@@ -137,11 +137,11 @@
 			x: 2.25d
 			y: -3.5d
 			shape: "diamond"
-			subtitle: "The Brain of the Drawers."
+			subtitle: "O cérebro das gavetas."
 			description: [
-				"When placed and connected with the &aLinking Tool&r to other drawers, this block acts as a \"Hub.\""
+				"Quando colocado e conectado com a Ferramenta de Vinculação a outras gavetas, este bloco atua como um \"cubo.\""
 				""
-				"If you double right-click this, all items within the Storage Drawers \"Network\" will be pulled from your inventory."
+				"Se você clicar duas vezes com o botão direito do mouse, todos os itens nas gavetas de armazenamento \"Rede\" serão retirados do seu inventário."
 			]
 			dependencies: ["072FBEB0F6F1BC48"]
 			dependency_requirement: "one_started"
@@ -166,15 +166,15 @@
 			]
 		}
 		{
-			title: "Ender Storage"
+			title: "Armazenamento final"
 			x: 5.5d
 			y: -1.0d
 			description: [
-				"Chests that work across dimensions."
+				"Baús que funcionam em todas as dimensões."
 				""
-				"Can be color coded for security! (Right click on the block with the desired dye)."
+				"Pode ser codificado por cores para segurança! (Clique com o botão direito no bloco com o corante desejado)."
 				""
-				"*Note: If someone else uses your color combination, they can get the contents!"
+				"*Nota: Se outra pessoa usar sua combinação de cores, ela poderá obter o conteúdo!"
 			]
 			hide_dependency_lines: true
 			id: "3247179F0F0252A2"
@@ -197,11 +197,11 @@
 			}]
 		}
 		{
-			title: "Trash Cans"
+			title: "Latas de lixo"
 			x: 5.5d
 			y: -3.0d
-			subtitle: "Getting Rid of The Excess"
-			description: ["A way to destroy unwanted items, liquid, and power."]
+			subtitle: "Livrar-se do Excesso"
+			description: ["Uma maneira de destruir itens indesejados, líquidos e energia."]
 			hide_dependency_lines: true
 			id: "17DC77F7F8C68AE6"
 			tasks: [
@@ -235,7 +235,7 @@
 			]
 		}
 		{
-			title: "Mek on the Go"
+			title: "Mek em movimento"
 			x: 6.5d
 			y: -3.0d
 			hide_dependency_lines: true
@@ -262,7 +262,7 @@
 		{
 			x: 6.5d
 			y: -1.0d
-			description: ["Can store tons of &eenchantments&f, whilst also being able to give back different leveled enchantments."]
+			description: ["Pode armazenar toneladas de &eenchantments&f, além de poder devolver diferentes encantamentos de nível."]
 			hide_dependency_lines: true
 			id: "73F94E2FECDD1DD5"
 			tasks: [{
@@ -285,17 +285,17 @@
 			]
 		}
 		{
-			title: "Ender Drawers!"
+			title: "Gavetas Ender!"
 			x: 2.25d
 			y: -2.5d
 			shape: "diamond"
-			subtitle: "Dimensional Drawer.... if you will."
+			subtitle: "Gaveta Dimensional .... se você quiser."
 			description: [
-				"Using a &aLinking Tool&r, you can link 2 Ender Drawers to sync up the contents."
+				"Usando uma &aLinking Tool&r, você pode vincular 2 Ender Drawers para sincronizar o conteúdo."
 				""
-				"This works just like an Ender Chest, but for Drawers."
+				"Isso funciona como um Ender Chest, mas para gavetas."
 				""
-				"To link, Right click the first Ender Drawer with the &aLinking Tool&r, then left click the second Ender Drawer to sync."
+				"Para vincular, clique com o botão direito do mouse na primeira Ender Drawer com a &aLinking Tool&r e, em seguida, clique com o botão esquerdo na segunda Ender Drawer para sincronizar."
 			]
 			dependencies: ["072FBEB0F6F1BC48"]
 			id: "1A4B1CA7EC15348E"
@@ -318,16 +318,16 @@
 			]
 		}
 		{
-			title: "Functional Storage"
+			title: "Armazenamento Funcional"
 			icon: "functionalstorage:storage_controller"
 			x: -4.0d
 			y: -3.0d
 			shape: "square"
-			subtitle: "Storage Drawers Distant Relative"
+			subtitle: "Gavetas de armazenamento Relativo distante"
 			description: [
-				"Functional Storage is a mod for storing stacks of the same items."
+				"Armazenamento Funcional é um mod para armazenar pilhas dos mesmos itens."
 				""
-				"This is useful for items like Cobblestone, Dirt, etc."
+				"Isso é útil para itens como Cobblestone, Dirt, etc."
 			]
 			size: 1.5d
 			id: "0682DC1F2417DAEB"
@@ -346,8 +346,8 @@
 			x: -4.0d
 			y: 1.0d
 			shape: "square"
-			subtitle: "Sophisticated Backpacks"
-			description: ["Sophisticated Backpacks offer upgradable backpacks that can also use filters to add nifty features!"]
+			subtitle: "Mochilas sofisticadas"
+			description: ["Mochilas sofisticadas oferecem mochilas atualizáveis ​​que também podem usar filtros para adicionar recursos interessantes!"]
 			size: 1.5d
 			id: "6A2B2C5E2ADCE366"
 			tasks: [{
@@ -364,7 +364,7 @@
 		{
 			x: -1.85d
 			y: 1.0d
-			subtitle: "The First Upgrade"
+			subtitle: "A primeira atualização"
 			dependencies: ["6A2B2C5E2ADCE366"]
 			id: "0E057B7F76401421"
 			tasks: [{
@@ -389,8 +389,8 @@
 		{
 			x: -1.85d
 			y: 2.5d
-			subtitle: "The Base for Backpack Filters"
-			description: ["You will need these to make backpack filter upgrades."]
+			subtitle: "A base para filtros de mochila"
+			description: ["Você precisará deles para fazer atualizações de filtro de mochila."]
 			dependencies: ["6A2B2C5E2ADCE366"]
 			id: "1FE052F643401232"
 			tasks: [{
@@ -416,7 +416,7 @@
 			x: -2.0d
 			y: 6.0d
 			shape: "circle"
-			subtitle: "Allows the backpack to pickup items."
+			subtitle: "Permite que a mochila pegue itens."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -436,7 +436,7 @@
 		{
 			x: -1.0d
 			y: 6.0d
-			subtitle: "More Filtering Options"
+			subtitle: "Mais opções de filtragem"
 			dependencies: ["0E0CAA31480EC0A1"]
 			hide: true
 			optional: true
@@ -455,7 +455,7 @@
 		{
 			x: 0.5d
 			y: 6.0d
-			subtitle: "Adds a filter for items being pumped in or out of the backpack."
+			subtitle: "Adiciona um filtro para itens sendo bombeados para dentro ou para fora da mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -493,7 +493,7 @@
 		{
 			x: 6.5d
 			y: 1.0d
-			subtitle: "Magnets items into the backpack."
+			subtitle: "Imãs itens na mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -531,7 +531,7 @@
 		{
 			x: 5.5d
 			y: 3.5d
-			subtitle: "Auto-feed with food in the backpack."
+			subtitle: "Alimentação automática com comida na mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -569,7 +569,7 @@
 		{
 			x: 6.5d
 			y: 3.5d
-			subtitle: "Adds a filter for items you want to auto-delete in the backpack."
+			subtitle: "Adiciona um filtro para itens que você deseja excluir automaticamente na mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -608,7 +608,7 @@
 			x: 5.5d
 			y: 1.0d
 			subtitle: "Stocking Up"
-			description: ["Adds a filter that allows you to tell the backpack which items it should keep stocked. Shift-Right Clicking an inventory will refill it."]
+			description: ["Adiciona um filtro que permite informar à mochila quais itens ela deve manter em estoque. Shift-Right Clicar em um inventário irá reabastecê-lo."]
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -646,8 +646,8 @@
 		{
 			x: 3.0d
 			y: 6.0d
-			subtitle: "Allows the backpack to be emptied."
-			description: ["Shift-Right Click an inventory to empty."]
+			subtitle: "Permite esvaziar a mochila."
+			description: ["Shift-Right Clique em um inventário para esvaziar."]
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -685,7 +685,7 @@
 		{
 			x: 4.25d
 			y: 3.5d
-			subtitle: "Keeps the player's inventory stacked up from items in the backpack."
+			subtitle: "Mantém o inventário do jogador empilhado de itens na mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -705,7 +705,7 @@
 		{
 			x: 4.25d
 			y: 4.5d
-			subtitle: "The Backpack Cannot Die."
+			subtitle: "A mochila não pode morrer."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -725,7 +725,7 @@
 		{
 			x: 5.5d
 			y: 6.0d
-			subtitle: "Adds a Smelting Tab to Backpack"
+			subtitle: "Adiciona uma guia de fundição à mochila"
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -745,7 +745,7 @@
 		{
 			x: 6.5d
 			y: 6.0d
-			subtitle: "Auto-smelt items in the backpack."
+			subtitle: "Itens de fundição automática na mochila."
 			dependencies: ["668C313FF46B6005"]
 			hide: true
 			optional: true
@@ -764,7 +764,7 @@
 		{
 			x: -4.0d
 			y: 5.0d
-			subtitle: "Adds a smoker GUI to the backpack."
+			subtitle: "Adiciona uma GUI de furnalha à mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -802,7 +802,7 @@
 		{
 			x: -4.0d
 			y: 2.5d
-			subtitle: "Adds a blasting GUI to the backpack."
+			subtitle: "Adiciona uma GUI explosiva à mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -840,7 +840,7 @@
 		{
 			x: 4.25d
 			y: 2.5d
-			subtitle: "Adds a Crafting Table GUI to the backpack."
+			subtitle: "Adiciona uma GUI da mesa crafter à mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -860,7 +860,7 @@
 		{
 			x: 1.25d
 			y: 3.5d
-			subtitle: "Adds a Stonecutting GUI to the backpack."
+			subtitle: "Adiciona uma GUI de Stonecutting à mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -880,7 +880,7 @@
 		{
 			x: -1.85d
 			y: 4.5d
-			subtitle: "Increases stack size in the backpack."
+			subtitle: "Aumenta o tamanho do inventario na mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -954,7 +954,7 @@
 		{
 			x: 2.75d
 			y: 3.5d
-			subtitle: "Now we're jammin"
+			subtitle: "Agora estamos jammin"
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -974,7 +974,7 @@
 		{
 			x: -1.85d
 			y: 3.5d
-			subtitle: "Adds a tank to the backpack."
+			subtitle: "Adiciona um tanque à mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -994,7 +994,7 @@
 		{
 			x: -0.25d
 			y: 3.5d
-			subtitle: "Adds a battery to the backpack."
+			subtitle: "Adiciona uma bateria à mochila."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: true
@@ -1014,7 +1014,7 @@
 		{
 			x: -0.25d
 			y: 2.5d
-			subtitle: "Adds the ability to pump liquids from the tank upgrade."
+			subtitle: "Adiciona a capacidade de bombear líquidos da atualização do tanque."
 			hide_dependency_lines: true
 			dependencies: ["1FE052F643401232"]
 			hide: false
@@ -1160,11 +1160,11 @@
 			y: -3.0d
 			shape: "circle"
 			description: [
-				"Used to link Drawers to a controller and to link up Ender Drawers."
+				"Usado para ligar gavetas a um controlador e para ligar gavetas Ender."
 				""
-				"To link Drawers to the Controller, right click the Controller block to start configuration. Right clicking Drawers will add them to the network."
+				"Para vincular Gavetas ao Controlador, clique com o botão direito do mouse no bloco Controlador para iniciar a configuração. Clicar com o botão direito em Gavetas irá adicioná-los à rede."
 				""
-				"Holding the tool will show you what Drawers are connected to the Controller."
+				"Segurar a ferramenta mostrará quais gavetas estão conectadas ao controlador."
 			]
 			dependencies: ["2746575C929B6C50"]
 			id: "072FBEB0F6F1BC48"
@@ -1206,7 +1206,7 @@
 			x: -2.25d
 			y: -6.0d
 			shape: "diamond"
-			subtitle: "x8 Storage Upgrade"
+			subtitle: "x8 Atualização de armazenamento"
 			dependencies: ["009A4AA36AA30F7D"]
 			id: "485D5664A17E16DF"
 			tasks: [{
@@ -1232,7 +1232,7 @@
 			x: -2.75d
 			y: -6.5d
 			shape: "diamond"
-			subtitle: "x16 Storage Upgrade"
+			subtitle: "x16 Atualização de armazenamento"
 			dependencies: ["485D5664A17E16DF"]
 			id: "3B570B3DB5F6D2CB"
 			tasks: [{
@@ -1258,7 +1258,7 @@
 			x: -2.25d
 			y: -7.0d
 			shape: "diamond"
-			subtitle: "x24 Storage Upgrade"
+			subtitle: "x24 Atualização de armazenamento"
 			dependencies: ["3B570B3DB5F6D2CB"]
 			id: "1B72E95569B07E18"
 			tasks: [{
@@ -1284,7 +1284,7 @@
 			x: -1.75d
 			y: -7.5d
 			shape: "diamond"
-			subtitle: "x32 Storage Upgrade"
+			subtitle: "x32 Atualização de armazenamento"
 			dependencies: ["1B72E95569B07E18"]
 			id: "0E5AE195158CF344"
 			tasks: [{
@@ -1309,7 +1309,7 @@
 			x: -1.25d
 			y: -6.0d
 			shape: "diamond"
-			subtitle: "Enables Pulling from Inventories"
+			subtitle: "Habilita a extração de inventários"
 			dependencies: ["009A4AA36AA30F7D"]
 			id: "045C75EF49BB315B"
 			tasks: [{
@@ -1333,7 +1333,7 @@
 			x: -0.75d
 			y: -6.5d
 			shape: "diamond"
-			subtitle: "Enables Pushing to Inventories"
+			subtitle: "Habilita o envio para inventários"
 			description: [""]
 			hide_dependency_lines: true
 			dependencies: ["009A4AA36AA30F7D"]
@@ -1359,7 +1359,7 @@
 			x: -1.25d
 			y: -7.0d
 			shape: "diamond"
-			subtitle: "Enables Collection of Items from the Ground"
+			subtitle: "Permite a coleta de itens do chão"
 			hide_dependency_lines: true
 			dependencies: ["009A4AA36AA30F7D"]
 			id: "793D2C7E49B67C39"
